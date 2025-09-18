@@ -7,8 +7,6 @@ This automation retrieves cyber security news from multiple RSS feeds using **Ma
 3. **Database Update** – Inserts new articles into the Norton database for centralized access.
 4. **Completion** – Confirms successful update and logs results.
 
-## Needs 
-**Processing** – Filters duplicate or already-stored articles.
 
 ## Benefits
 - Provides a single dashboard for cyber news.
