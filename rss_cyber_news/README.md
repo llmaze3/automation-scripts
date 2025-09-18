@@ -13,6 +13,9 @@ This automation retrieves cyber security news from multiple RSS feeds using **Ma
 - Saves time compared to manually checking multiple news sites.
 - Ensures analysts always start the day with updated security headlines.
 
+## Files
+- `scenario.blueprint.json` – (optional) Export of the Make.com automation scenario.
+
 ## Next Steps
 - Add new RSS feeds as needed.
 – **Processing**: Filter duplicate or already-stored articles.
